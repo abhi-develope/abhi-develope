@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spidy Developer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
-🌱 I’m currently learning Reactjs<br>👨‍💻 All of my projects are available at https://abhi-develope.github.io/My-Personal-Portfolio/<br>💬 Ask me about react,javascript,java<br>📫 How to reach me prajapatiahishek320@gmail.com<br>⚡ Fun fact "If your code work well then don't touch it"<br><br>
+🌱 I’m currently learning Reactjs<br>👨‍💻 All of my projects are available at https://abhi-develope.github.io/My-Personal-Portfolio/<br>💬 Ask me about react,javascript,java<br>📫 How to reach me https://prajapatiahishek320@gmail.com<br>⚡ Fun fact "If your code work well then don't touch it"<br><br>
 
 
 [![](https://visitcount.itsvg.in/api?id=abhi-develope&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 ---
 
