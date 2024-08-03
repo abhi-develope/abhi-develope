@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spidy Developer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 # 💫 About Me:
 🌱 I’m currently learning Backend devlopment<br>👨‍💻 All of my projects are available at https://abhi-develope.github.io/My-Personal-Portfolio/<br>💬 Ask me about react,javascript,java<br>📫 How to reach me https://prajapatiahishek320@gmail.com<br>⚡ Fun fact "If your code work well then don't touch it"<br><br>
 
