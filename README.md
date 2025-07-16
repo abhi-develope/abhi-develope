@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+💻;React%2C+NestJS%2C+MongoDB+%26+More!" />
 </p>
 
-<table width="80%">
+<table width="70%">
   <tr>
-    <td width="40%" valign="top">
+    <td width="30%" valign="top">
 
 ```ts
 // About Me 🚀
