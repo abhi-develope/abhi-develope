@@ -5,7 +5,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="40%" valign="top">
 
 ```ts
 // About Me 🚀
@@ -19,7 +19,7 @@ const abhishek = {
 ```
 
   </td>
-  <td width="40%" align="center">
+  <td width="60%" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding GIF" />
   </td>
   </tr>
