@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+💻;React%2C+NestJS%2C+MongoDB+%26+More!" />
 </p>
 
-<table width="100%">
+<table width="80%">
   <tr>
     <td width="40%" valign="top">
 
@@ -19,7 +19,7 @@ const abhishek = {
 ```
 
   </td>
-  <td width="60%" align="center">
+  <td width="40%" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding GIF" />
   </td>
   </tr>
