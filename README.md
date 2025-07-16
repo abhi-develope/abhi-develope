@@ -1,12 +1,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Abhishek+(Spidy)+👋;Full+Stack+Web+Developer+💻;React+%7C+NestJS+%7C+NodeJS+%7C+MongoDB&font=Fira%20Code&center=true&width=800&height=45&pause=1000&color=0FFFC1&vCenter=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FFFC1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Abhishek+(Spidy)+👋;Full+Stack+Web+Developer+💻;React+%7C+NestJS+%7C+NodeJS+%7C+MongoDB" />
 
 ---
 
-<!-- Optionally you can add a gif below -->
-<!-- ![Code GIF](https://github.com/abhi-develope/abhi-develope/assets/your-gif-here.gif) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
 
 </div>
 
@@ -63,21 +62,6 @@ Others:   [ Figma, Firebase, JWT, Bcrypt, Linux ]
   <img src="https://github-readme-stats.vercel.app/api?username=abhi-develope&theme=react&hide_border=false&show_icons=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-develope&theme=react&hide_border=false" width="48%" />
 </p>
-
----
-
-## 🧩 Developer Activity
-
-<!-- Optionally, you can enable these widgets if you want to look even more dynamic -->
-
-<!-- GitHub Metrics -->
-<!-- ![Metrics](https://metrics.lecoq.io/abhi-develope?template=classic&isocalendar=1&languages=1&followup=1&activity=1&config.timezone=Asia%2FKolkata) -->
-
-<!-- GitHub Contribution Snake -->
-<!-- ![](https://github.com/abhi-develope/abhi-develope/blob/output/github-contribution-grid-snake.svg) -->
-
-<!-- WakaTime -->
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername) -->
 
 ---
 
