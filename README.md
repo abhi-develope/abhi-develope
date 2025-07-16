@@ -40,21 +40,14 @@ Others:   [ Figma, Firebase, JWT, Bcrypt, Linux ]
 
 ---
 
-## 🧠 My Philosophy
 
-```bash
-> Code with purpose
-> Keep UI clean & backend smart
-> Focus on scalability & readability
-> Never stop learning 🚀
-```
 
 ---
 
 ## 📂 Recent Projects
 
-- 🎯 [Admin Dashboard](https://github.com/abhi-develope) — React + Tailwind + Charts
-- 🔐 [Authentication System] — NodeJS + JWT + Refresh Tokens
+- 🎯 [Real Time Chat Application](https://github.com/abhi-develope) — React + Tailwind + Socket.io + jwt Authentication
+- 🔐 [Authentication System](https://authentication-wahd.onrender.com/) — NodeJS + JWT + Refresh Tokens
 - 🌐 [Portfolio Site](https://abhi-develope.github.io/My-Personal-Portfolio/) — Static React portfolio
 
 ---
