@@ -19,7 +19,7 @@ const abhishek = {
 ```
 
   </td>
- <td width="40%" align="center">
+ <td width="60%" align="center">
 <img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/main/githubgif.gif?raw=true" width="360" alt="Coding GIF" />
 
 
