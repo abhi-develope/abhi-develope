@@ -19,9 +19,10 @@ const abhishek = {
 ```
 
   </td>
-  <td width="40%" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding GIF" />
-  </td>
+ <td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="360" alt="Coding GIF" />
+</td>
+
   </tr>
 </table>
 
