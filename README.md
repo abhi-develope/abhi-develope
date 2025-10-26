@@ -5,7 +5,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="40%" valign="top">
 
 ```ts
 // About Me 🚀
