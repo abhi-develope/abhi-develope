@@ -21,6 +21,14 @@ const abhishek = {
   </td>
  <td width="60%" align="center">
 
+ <video 
+    src="https://res.cloudinary.com/dgxy8igfx/video/upload/v1762672626/githubgif_1_foogrf.mp4" 
+    autoplay 
+    loop 
+    muted 
+    playsinline>
+  </video>
+
 
 <img src="https://res.cloudinary.com/dgxy8igfx/image/upload/v1762672626/githubgif_1_foogrf.gif" width="360" alt="Coding GIF" />
   
