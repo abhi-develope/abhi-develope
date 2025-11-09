@@ -23,7 +23,7 @@ const abhishek = {
 
 <p align="center">
   <video 
-    src=" https://res.cloudinary.com/dgxy8igfx/video/upload/v1762672626/githubgif_1_foogrf.mp4" 
+    src="https://res.cloudinary.com/dgxy8igfx/image/upload/v1762672626/githubgif_1_foogrf.gif" 
     width="360" 
     autoplay 
     loop 
