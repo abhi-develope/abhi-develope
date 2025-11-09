@@ -30,7 +30,7 @@ const abhishek = {
   </video>
 
 
-<img src="https://res.cloudinary.com/dgxy8igfx/image/upload/v1762672626/githubgif_1_foogrf.gif" width="360" alt="Coding GIF" />
+
   
 
 <!-- <img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/main/githubgif.gif?raw=true" width="360" alt="Coding GIF" />  -->
