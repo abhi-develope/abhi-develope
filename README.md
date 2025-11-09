@@ -59,8 +59,8 @@ Others:   [ Figma, Firebase, JWT, Bcrypt, Linux ]
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-develope&theme=react&hide_border=false&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-develope&theme=react&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhi-develope&theme=react&hide_border=false&show_icons=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=abhi-develope&theme=react&hide_border=false" width="48%" />
 </p>
 
 ---
