@@ -21,19 +21,7 @@ const abhishek = {
   </td>
  <td width="60%" align="center">
 
- <video 
-    src="https://res.cloudinary.com/dgxy8igfx/video/upload/v1762672626/githubgif_1_foogrf.mp4" 
-    autoplay 
-    loop 
-    muted 
-    playsinline>
-  </video>
-
-
-
-  
-
-<!-- <img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/main/githubgif.gif?raw=true" width="360" alt="Coding GIF" />  -->
+ <img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/main/githubgif.gif?raw=true" width="360" alt="Coding GIF" />
 
 
 </td>
