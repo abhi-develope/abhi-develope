@@ -20,7 +20,9 @@ const abhishek = {
 
   </td>
  <td width="60%" align="center">
-<img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/main/githubgif.gif?raw=true" width="360" alt="Coding GIF" />
+   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Full+Stack+Developer;MERN+Developer;Open+Source+Contributor" />
+
+<!-- <img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/main/githubgif.gif?raw=true" width="360" alt="Coding GIF" /> -->
 
 
 </td>
