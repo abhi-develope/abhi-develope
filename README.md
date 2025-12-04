@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+💻;React%2C+NestJS%2C+MongoDB+%26+More!" />
 </p>
-
 <table width="100%">
   <tr>
     <td width="40%" valign="top">
@@ -20,16 +18,10 @@ const abhishek = {
 
   </td>
  <td width="60%" align="center">
-
  <img src="https://raw.githubusercontent.com/abhi-develope/abhi-develope/main/githubgif.gif?raw=true" width="360" alt="Coding GIF" />
-
-
 </td>
-
   </tr>
 </table>
-
-
 
 ---
 
@@ -59,13 +51,29 @@ Others:   [ Figma, Firebase, JWT, Bcrypt, Linux ]
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhi-develope&theme=react&hide_border=false&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=abhi-develope&theme=react&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-develope&theme=react&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi-develope&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-develope&theme=react&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Let’s Connect!
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-develope&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-develope&theme=react" width="95%" alt="Profile Summary" />
+</p>
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:prajapatiahishek320@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -75,7 +83,7 @@ Others:   [ Figma, Firebase, JWT, Bcrypt, Linux ]
 
 ---
 
-> “Stay curious. Build cool stuff. Break it. Learn from it. Repeat.”
+> "Stay curious. Build cool stuff. Break it. Learn from it. Repeat."
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
