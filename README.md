@@ -50,7 +50,7 @@ Others:   [ Figma, Firebase, JWT, Bcrypt, Linux ]
 
 ## 📂 Recent Projects
 
-- 🎯 [Real Time Chat Application](https://github.com/abhi-develope) — React + Tailwind + Socket.io + jwt Authentication  
+- 🎯 [Real Time Chat Application](https://chat-deployed-rfpr.onrender.com/) — React + Tailwind + Socket.io + jwt Authentication  
 - 🔐 [Authentication System](https://authentication-wahd.onrender.com/) — NodeJS + JWT + Refresh Tokens  
 - 🌐 [Portfolio Site](https://abhi-develope.github.io/My-Personal-Portfolio/) — Static React portfolio  
 
