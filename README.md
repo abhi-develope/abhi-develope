@@ -51,12 +51,14 @@ Others:   [ Figma, Firebase, JWT, Bcrypt, Linux ]
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-develope&theme=react&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi-develope&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api?username=abhi-develope&theme=react&show_icons=true&include_all_commits=true&cache_seconds=86400" width="48%" />
+<img src="https://streak-stats.demolab.com?user=abhi-develope&theme=react&cache_seconds=86400" width="48%" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-develope&theme=react&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" width="48%" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-develope&layout=compact&theme=react&cache_seconds=86400" width="48%" />
+
 </p>
 
 ---
